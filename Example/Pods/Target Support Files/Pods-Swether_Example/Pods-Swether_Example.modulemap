@@ -1,0 +1,6 @@
+framework module Pods_Swether_Example {
+  umbrella header "Pods-Swether_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

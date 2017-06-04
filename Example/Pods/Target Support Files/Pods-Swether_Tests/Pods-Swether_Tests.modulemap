@@ -1,0 +1,6 @@
+framework module Pods_Swether_Tests {
+  umbrella header "Pods-Swether_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

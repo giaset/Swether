@@ -1,0 +1,6 @@
+framework module Swether {
+  umbrella header "Swether-umbrella.h"
+
+  export *
+  module * { export * }
+}
